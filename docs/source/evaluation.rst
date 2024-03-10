@@ -6,7 +6,7 @@ Launch the docker container:
 .. code-block:: console
 
   $ cd /path/to/the/artifact/
-  $ ./start-container.py
+  $ ./start_container.py
 
 
 .. note::
