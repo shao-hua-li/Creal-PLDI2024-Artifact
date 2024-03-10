@@ -145,7 +145,7 @@ You can reproduce Figure 10 by running the following script, which analyzes each
 
 .. code-block:: console
 
-  $ cd /artifact/bugs/characteristics/
+  $ cd /artifact/characteristics/
   $ ./num_inserted.py
 
 This script will also print the data, which is consistent to the produced figure ``figure_num_inserted_functions.png``.
