@@ -24,7 +24,7 @@ Then, enter the docker container:
 
   $ cd /path/to/the/artifact/
   $ docker load -i image-artifact-pldi2024-creal.tar  # takes ~10-15 min
-  $ ./start-container.py
+  $ ./start_container.py
 
 Then, execute the following command **in the container**:
 
