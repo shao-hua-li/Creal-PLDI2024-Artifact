@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Creal-PLDI2024-Artifact'
+copyright = '2024, Shaohua Li'
+author = 'Shaohua Li'
 
-release = '0.1'
-version = '0.1.0'
+release = 'v1.0'
+version = 'v1.0'
 
 # -- General configuration
 
@@ -33,3 +33,8 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+latex_elements = {
+    'classoptions': ',oneside',  # Add other options here as needed, separated by commas
+    'babel': '\\usepackage[english]{babel}',
+}
