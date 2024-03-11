@@ -11,7 +11,7 @@ We recommand to run the full evaluation on a machine with at least **32 cores, 3
 Getting Started Guide (Kick-the-tire)
 ---------------
 
-First, download the artifact from the provided ``Zenodo`` link , then untar the artifact(~20min):
+First, download the artifact from the provided `Zenodo <https://doi.org/10.5281/zenodo.10802596>`_ link , then untar the artifact(~20min):
 
 .. code-block:: console
 

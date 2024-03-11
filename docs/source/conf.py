@@ -4,10 +4,10 @@
 
 project = 'Creal-PLDI2024-Artifact'
 copyright = '2024, Shaohua Li'
-author = 'Shaohua Li'
+author = ''
 
-release = 'v1.0'
-version = 'v1.0'
+release = 'v1.1'
+version = 'v1.1'
 
 # -- General configuration
 
